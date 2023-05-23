@@ -59,15 +59,5 @@ namespace GameBall.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap HD_wallpaper_grey_background_and_colorful_circle {
-            get {
-                object obj = ResourceManager.GetObject("HD-wallpaper-grey-background-and-colorful-circle", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

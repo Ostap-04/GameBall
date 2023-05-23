@@ -86,9 +86,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="HD-wallpaper-grey-background-and-colorful-circle.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="gamers.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
